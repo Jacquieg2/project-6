@@ -3,8 +3,6 @@
 # Date: 02/04/2025
 # Description: sample standard deviation
 
-import math
-
 def calculate_word_length_std_dev(text):
     """
     Calculates the sample standard deviation of word lengths in a given string.
