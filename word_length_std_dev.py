@@ -1,6 +1,6 @@
 # Author: Jacqueline Garcia
 # GitHub username: Jgarcia2
-# Date: 02/04/2025
+# Date: 02/11/2025
 # Description: sample standard deviation
 
 def word_length_std_dev(text):
